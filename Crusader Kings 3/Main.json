@@ -1,1 +1,72 @@
-{"game":"ck3","name":"Main","mods":[{"displayName":"Sinews of War","enabled":true,"position":0,"steamId":"2566883856"},{"displayName":"Nameplates","enabled":true,"position":1,"steamId":"2220762808"},{"displayName":"Knight Manager","enabled":true,"position":2,"steamId":"2293272317"},{"displayName":"Community Flavor Pack","enabled":true,"position":3,"steamId":"2220098919"},{"displayName":"Unique Building Plus","enabled":true,"position":4,"steamId":"2447414615"}]}
+{
+    "game": "ck3",
+    "name": "Main",
+    "mods": [
+        {
+            "displayName": "Community Flavor Pack",
+            "enabled": true,
+            "position": 0,
+            "steamId": "2220098919"
+        },
+        {
+            "displayName": "Cities of Wonders 2 (for 1.7)",
+            "enabled": true,
+            "position": 1,
+            "steamId": "2512278056"
+        },
+        {
+            "displayName": "CoW2-CFP Compatibility Patch",
+            "enabled": true,
+            "position": 2,
+            "steamId": "2793230366"
+        },
+        {
+            "displayName": "Nameplates",
+            "enabled": true,
+            "position": 3,
+            "steamId": "2220762808"
+        },
+        {
+            "displayName": "Knight Manager",
+            "enabled": true,
+            "position": 4,
+            "steamId": "2293272317"
+        },
+        {
+            "displayName": "Fullscreen Barbershop",
+            "enabled": true,
+            "position": 5,
+            "steamId": "2220326926"
+        },
+        {
+            "displayName": "Better Buyable Building Slot + Infinite Building Slot",
+            "enabled": true,
+            "position": 6,
+            "steamId": "2370708338"
+        },
+        {
+            "displayName": "Tech Era Date Begone",
+            "enabled": true,
+            "position": 7,
+            "steamId": "2754422082"
+        },
+        {
+            "displayName": "Holding Sprawl",
+            "enabled": true,
+            "position": 8,
+            "steamId": "2818728722"
+        },
+        {
+            "displayName": "Repair All",
+            "enabled": true,
+            "position": 9,
+            "steamId": "2799478496"
+        },
+        {
+            "displayName": "More Legacies",
+            "enabled": true,
+            "position": 10,
+            "steamId": "2859278694"
+        }
+    ]
+}
